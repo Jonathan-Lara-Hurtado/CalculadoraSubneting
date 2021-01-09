@@ -1,0 +1,4 @@
+#Fri Jan 08 13:01:16 CST 2021
+base.0=/home/lara/ProjectosVisualCode/Calculadora/calculadora_de_redes/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

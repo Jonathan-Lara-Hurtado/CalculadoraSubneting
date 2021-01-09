@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lara/ProjectosVisualCode/Calculadora/calculadora_de_redes/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "map": [
+                {
+                    "source": "/home/lara/.gradle/caches/transforms-2/files-2.1/ca455f7b1a0447e077897016985d0894/jetified-play-services-basement-17.3.0/res/values-hi/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "204",
+                        "endOffsets": "305"
+                    }
+                },
+                {
+                    "source": "/home/lara/.gradle/caches/transforms-2/files-2.1/cff95f5a8d2f696a17216028116f4d54/jetified-play-services-ads-19.4.0/res/values-hi/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,269,395,464,532,609,703",
+                        "endColumns": "69,125,68,67,76,93,70",
+                        "endOffsets": "268,394,463,531,608,702,773"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "310,384,514,587,659,740,838",
+                        "endColumns": "73,129,72,71,80,97,74",
+                        "endOffsets": "379,509,582,654,735,833,908"
+                    }
+                },
+                {
+                    "source": "/home/lara/.gradle/caches/transforms-2/files-2.1/544eab86e7823cb4f6f6bbcd34094c52/core-1.2.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "913",
+                        "endColumns": "100",
+                        "endOffsets": "1009"
+                    }
+                }
+            ]
+        }
+    ]
+}
